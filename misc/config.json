@@ -1,0 +1,13 @@
+{
+    "bot_token": "ODQ4OTMzNzU0NDczOTM4OTc2.YLT1Kw.1Yj7njSkRaDLqHkpIgA2wCVNIfM",
+    "status": {
+        "state": "ONLINE",
+        "type": "PLAYING",
+        "name": "Yes"
+    },
+    "chat": {
+        "url": "http://api.brainshop.ai/get",
+        "brainID": "155604",
+        "key": "WqSIgRoyJTvwjWXq"
+    }
+}
